@@ -1,0 +1,11 @@
+streamlit
+duckdb
+duckdb-engine
+sqlalchemy<=2.0.35
+pandas
+numpy
+plotly
+langchain>=1,<2
+langchain-community>=0.4,<0.5
+langchain-google-genai>=4,<5
+python-dotenv
